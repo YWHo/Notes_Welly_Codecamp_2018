@@ -86,10 +86,10 @@
 
 * Environment and Support:
   * incubation = requires change environment; requires space. Eg. Taking shower in morning.
-    * Solution: different area for different purposes: have quiet or loud places
+    * Solution: different area for different purposes: have separate quiet and loud places
   * Let people work on their specialisation or on their passion.
 
-* Give benefit of doubt. Avoid jump to conclusion. Ask “are you ok?” first.
+* Give benefit of doubt. Avoid jump to conclusion. Always ask “are you ok?” first.
 
 * For A-social person, even if the person said “no” when asked for the drinks outside, doesn’t mean cannot be asked again in the future
 
