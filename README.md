@@ -1,5 +1,5 @@
 # Notes on sharing by speakers during Code Camp Wellington 2018
-* [Life as a manager](./life_as_manager.md)
+* [Life as a manager](./speeches/life_as_manager.md)
   * speech by Sunil Jolly
 * [Mitigating Kernel Panic in non silicone workers](./speeches/mitigating_kernel_panic.md)
   * speech by Ellie Coyle
