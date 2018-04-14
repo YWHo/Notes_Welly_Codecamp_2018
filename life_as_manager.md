@@ -19,8 +19,8 @@
 ## 2015
 * moved to NZ from UK
 * front-end world changed; skills outdated
-* went back as a junior
-* tech lead = people thought know a lot about technology
+* went back to junior developer role
+* tech lead = people assume know a lot about technology
 * work as a developer, struggling due to tendency for management role
 
 ## 2017
@@ -53,7 +53,7 @@
 * learn from mistakes
 * Understand own limitation
 
-## Q&A:
+## Extra info:
 * most managers didn’t get training until in the role for 10 years
 * 50% of American leave management jobs
 * 69% managers uncomfortable to communicate with employees
